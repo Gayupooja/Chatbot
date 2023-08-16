@@ -1,3 +1,12 @@
+## Table of contents
+1. Introduction
+2. Features
+3. Customization
+4. Getting started with Prerequisties 
+
+
+
+
 # University FAQ Chatbot
 
 The University FAQ Chatbot is a simple Python-based chatbot that provides answers to frequently asked questions about a university. It's designed to assist users in finding information about courses, admission procedures, fees, and more.
